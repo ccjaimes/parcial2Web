@@ -1,0 +1,14 @@
+{
+    "movies":"Movies",
+    "million":"million",
+    "millions":"millions",
+    "name":"Name",
+    "directedBy":"Directed By",
+    "country":"Country",
+    "budget":"Budget",
+    "views":"Views",
+    "details":"Details",
+    "releaseDate":"Release",
+    "description":"Description",
+    "cast": "Cast"
+}
